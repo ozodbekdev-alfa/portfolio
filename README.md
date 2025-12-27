@@ -18,7 +18,7 @@ It presents my skills, projects, and basic information as a software developer w
 The main purpose of this project is to showcase my development skills, display my projects, and serve as my personal online portfolio.
 
 ## Live Demo
-🌐 **https://ozodbekdev.uz**
+🌐 **https://game.ozodbekdev.uz/ilon**
 
 ## Author
 **Ozodbek Dev**  
